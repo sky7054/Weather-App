@@ -69,7 +69,8 @@ input{
 
 .weather_date_time {
     margin-bottom: 2rem;
-    font-size: 14px;
+    font-size: 15px;
+    font-size: 600;
 }
 
 .weather_forecast {
